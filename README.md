@@ -4,3 +4,4 @@ _Day 1_
 Created Github account
 Started Tryhackme security path
 Learned the basics of cyber security
+Completed 3 rooms and a Module
